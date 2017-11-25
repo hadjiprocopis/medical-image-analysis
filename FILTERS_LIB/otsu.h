@@ -1,0 +1,18 @@
+int	otsu_find_background_threshold3D_LOHI(
+	DATATYPE 	***/*image_ptr*/,
+	int		/*offset_x*/,
+	int		/*offset_y*/,
+	int		/*offset_z*/,
+	int		/*size_x*/,
+	int 		/*size_y*/,
+	int		/*size_z*/,
+	int		*/*value*/);
+int	otsu_find_background_threshold3D_HILO(
+	DATATYPE 	***/*image_ptr*/,
+	int		/*offset_x*/,
+	int		/*offset_y*/,
+	int		/*offset_z*/,
+	int		/*size_x*/,
+	int 		/*size_y*/,
+	int		/*size_z*/,
+	int		*/*value*/);

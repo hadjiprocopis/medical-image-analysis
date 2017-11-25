@@ -1,0 +1,13 @@
+void	_entropy_clustering_calculate_weighting_function_results(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_distances_with_weights(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_distances_without_weights(entropyClData */*myData*/);
+void	_entropy_clustering_transform_distances(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_probabilities(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_entropies(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_factors_of_fitness(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_fitness(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_cluster_changes(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_weight_changes(entropyClData */*myData*/);
+void	_entropy_clustering_change_clusters(entropyClData */*myData*/);
+void	_entropy_clustering_change_weights(entropyClData */*myData*/);
+void	_entropy_clustering_calculate_cluster_centroids(entropyClData */*myData*/);
